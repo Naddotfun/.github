@@ -1,5 +1,3 @@
-# Nad.fun
-
 <p align="center">
     <img src="https://github.com/user-attachments/assets/be1ae259-e180-434a-bd76-1b56a7f44f30" style="padding: 1em; height: 120px"/>
 </p>
@@ -16,6 +14,8 @@
             alt="follow on Twitter">
     </a>
 </p>
+
+# Nad.fun
 
 ## About Nad.fun
 Nad.fun is a platform that provides everything Nads who want to trade Memencoin need to make it simple to create and trade Memecoin.
