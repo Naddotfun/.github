@@ -17,27 +17,21 @@
 
 # Nad.fun
 
-## About Nad.fun
-
-Nad.fun is a platform that provides everything Nads who want to trade Memencoin need to make it simple to create and trade Memecoin.
-
-## Rule of Nad.fun
-
-Each coin on Nad.fun is a fair-launch with no presale and no team allocation.
-
-## Join the Nad.fun OG community before the launch!
-
-Let's discuss shitcoin endlessly with experienced Degen Nads and strategize to achieve high Pnl.
-
-## Projects
-
-### Nad.fun typescript sdk
-
-Coming soon! Stay tuned for our TypeScript SDK.
+Nad.fun is a platform that gives Nads everything they need to create and trade Memecoins in a simple, seamless way. Each coin on Nad.fun is a fair launch with no presale and no team allocation.
 
 ## Getting Started
 
 To get started with Nad.fun, check out our individual project repositories for specific setup instructions and documentation.
+
+* [Docs](https://nad-fun.gitbook.io/nad.fun)
+* [Typescript SDK](https://github.com/Naddotfun/nadfun-sdk-typescript)
+* [Rust SDK](https://github.com/Naddotfun/nadfun-sdk-rust)
+
+## Join the Nad.fun OG community 
+
+Let's discuss Memecoins endlessly with experienced Degen Nads and strategize to achieve high PnL.
+* [X (Twitter)](https://x.com/naddotfun)
+* [Discord](https://discord.com/invite/naddotfun)
 
 ## Contributing
 
@@ -46,5 +40,3 @@ We welcome contributions from the community! Please check each project's reposit
 ## Support
 
 If you need help or have any questions, please join our community channels or open an issue in the relevant GitHub repository.
-
-
