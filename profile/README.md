@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-    <a href="https://testnet.nad.fun" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Visit-testnet.nad.fun-ff69b4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBrZLNDYJAEIVnFvkpgRIogQ7UCqQES7AEKcES7EAr0A60A+xAO2CfZGOIkOyyL9nsvJn3zc4PRVEUkYicMcaJek5yOrMEy7K0+76/EkJwVVXZvu9f1HtSSo+6rofkzoIsywZN01xWkU3TtPA8b/gKsAU0TWvDMNRVMAxDCyEevu/PH9+HbdslY2xWAtu2b1EUnV4Bpmm+OefLz9ezSFXVSCn1/nUHWkM9pJQ3UkqHUno/iiLP8zxL03SklH4AEu88kxqH5EAAAAAASUVORK5CYII=" alt="Visit testnet.nad.fun">
+    <a href="https://nad.fun" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Visit-nad.fun-ff69b4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBrZLNDYJAEIVnFvkpgRIogQ7UCqQES7AEKcES7EAr0A60A+xAO2CfZGOIkOyyL9nsvJn3zc4PRVEUkYicMcaJek5yOrMEy7K0+76/EkJwVVXZvu9f1HtSSo+6rofkzoIsywZN01xWkU3TtPA8b/gKsAU0TWvDMNRVMAxDCyEevu/PH9+HbdslY2xWAtu2b1EUnV4Bpmm+OefLz9ezSFXVSCn1/nUHWkM9pJQ3UkqHUno/iiLP8zxL03SklH4AEu88kxqH5EAAAAAASUVORK5CYII=" alt="Visit nad.fun">
     </a>
 </p>
 
@@ -30,19 +30,6 @@ Each coin on Nad.fun is a fair-launch with no presale and no team allocation.
 Let's discuss shitcoin endlessly with experienced Degen Nads and strategize to achieve high Pnl.
 
 ## Projects
-
-
-### Api server
-
-The backend API server for Nad.fun:
-
-https://github.com/Naddotfun/api-server
-
-### Client
-
-The Frontend for Nad.fun 
-
-Coming soon! Stay tuned for our Client
 
 ### Nad.fun typescript sdk
 
